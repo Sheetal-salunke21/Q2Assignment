@@ -22,8 +22,7 @@ Automation Requirements:
 
 Next Steps: 
   1. Read the requirement thoroughly. Please keep a copy of it for a reference if needed.
-  2. 
-  3. Click on the Submit button of this test.
+  2. Click on the Submit button of this test.
 
 ## Quick start
 
