@@ -22,7 +22,7 @@ Automation Requirements:
 
 Next Steps: 
   1. Read the requirement thoroughly. Please keep a copy of it for a reference if needed.
-  2. Send the deliverable to rashmi.koravi@thinkbridge.in, in the next 3 days via GitHub, Bitbucket, or SourceTree. If not received within the specified time, we will consider it as an un-attempted question.
+  2. 
   3. Click on the Submit button of this test.
 
 ## Quick start
