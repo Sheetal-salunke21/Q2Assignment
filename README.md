@@ -22,18 +22,26 @@ Automation Requirements:
 
 Next Steps: 
   1. Read the requirement thoroughly. Please keep a copy of it for a reference if needed.
-  2. Click on the Submit button of this test.
+  2. Send the deliverable to ankita.d@thinkbridge.in, in the next 3 days viaGitHub, BitBucket,or SourceTree. If not received within the specified time, we will consider it as an un-attempted question.
+  3. Click on the Submit button of this test.
 
 ## Quick start
 
 This is a sample project to demonstrate what is page object model framework and how it can used in selenium to automate any application. TestNG is used as test framework.
 
 **Dependency Java Maven**
-
 ###libraries used Selenium TestNG log4j Extent Reports
+
+POM
+1. Created config.propertie file to store the environment variables like browser, credentails and url
+2. Creed Util class to store all the general utilities like time, screenshot etc
+3. Created base class to store all browser inititalization like, init webdrive, maximise window, delete all cookies, launch url, and implcit wait.
+4. Created seperate java class for all the pages like login, email verification
+5. Created Login class to store test cases using TestNG annotation. This class will execute all the test cases.
+6. Run LoginPageTest.java as TestNG
 
 Steps to clone execute the tests
 git clone https://github.com/Sheetal-salunke21/Q2Assignment.git
 cd Q2Assignment
-Run as TestNG
+Open LoginPageTest.java and Run as TestNG
 
